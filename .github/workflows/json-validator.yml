@@ -7,31 +7,43 @@ on:
   pull_request:
     paths:
       - '**/*.json'
-  workflow_dispatch: # এটি ম্যানুয়ালি 'Run workflow' করার বাটন যোগ করবে
+  workflow_dispatch:
 
 jobs:
   validate-json:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository code
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Test JSON Syntax
+      - name: Validate All JSON Files
         run: |
-          echo "🔍 JSON ফাইলগুলোর সিনট্যাক্স পরীক্ষা করা হচ্ছে..."
-          error_found=0
-          
-          for file in $(find . -name "*.json" -not -path "*/node_modules/*"); do
-            if jq '.' "$file" > /dev/null 2>&1; then
-              echo "✅ [SUCCESS] $file - সিনট্যাক্স সঠিক আছে।"
-            else
-              echo "❌ [ERROR] $file - সিনট্যাক্স ভুল আছে!"
-              error_found=1
-            fi
-          done
-          
-          if [ $error_found -eq 1 ]; then
-            echo "⚠️ কিছু JSON ফাইলে গঠনগত ভুল রয়েছে। দয়া করে কমা বা ব্র্যাকেট চেক করুন।"
-            exit 1
-          fi
+          python3 -c '
+          import json, glob, sys, os
+
+          has_error = False
+          json_files = [f for f in glob.glob("**/*.json", recursive=True) if "node_modules" not in f and not f.startswith(".github")]
+
+          if not json_files:
+              print("ℹ️ কোনো JSON ফাইল পাওয়া যায়নি।")
+              sys.exit(0)
+
+          print(f"🔍 মোট {len(json_files)} টি JSON ফাইল চেক করা হচ্ছে...\n")
+
+          for file_path in json_files:
+              try:
+                  with open(file_path, "r", encoding="utf-8") as f:
+                      json.load(f)
+                  print(f"✅ [SUCCESS] {file_path}")
+              except Exception as e:
+                  print(f"❌ [ERROR] {file_path} - সিনট্যাক্স ভুল আছে!")
+                  print(f"   ডিটেইলস: {e}\n")
+                  has_error = True
+
+          if has_error:
+              print("\n⚠️ কিছু JSON ফাইলে গঠনগত ভুল রয়েছে। দয়া করে কমা বা ব্র্যাকেট চেক করুন।")
+              sys.exit(1)
+          else:
+              print("\n🎉 সব JSON ফাইলের সিনট্যাক্স ১০০% সঠিক!")
+          '
           
