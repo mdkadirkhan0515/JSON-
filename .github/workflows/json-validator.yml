@@ -13,37 +13,34 @@ jobs:
   validate-json:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout Code
         uses: actions/checkout@v4
 
       - name: Validate All JSON Files
         run: |
-          python3 -c '
-          import json, glob, sys, os
+          python3 -c "
+          import json, glob, sys
 
-          has_error = False
-          json_files = [f for f in glob.glob("**/*.json", recursive=True) if "node_modules" not in f and not f.startswith(".github")]
+          files = [f for f in glob.glob('**/*.json', recursive=True) if 'node_modules' not in f and not f.startswith('.github')]
 
-          if not json_files:
-              print("ℹ️ কোনো JSON ফাইল পাওয়া যায়নি।")
+          if not files:
+              print('ℹ️ কোনো JSON ফাইল পাওয়া যায়নি।')
               sys.exit(0)
 
-          print(f"🔍 মোট {len(json_files)} টি JSON ফাইল চেক করা হচ্ছে...\n")
+          has_error = False
+          print(f'🔍 মোট {len(files)} টি JSON ফাইল চেক করা হচ্ছে...\n')
 
-          for file_path in json_files:
+          for file_path in files:
               try:
-                  with open(file_path, "r", encoding="utf-8") as f:
+                  with open(file_path, 'r', encoding='utf-8') as f:
                       json.load(f)
-                  print(f"✅ [SUCCESS] {file_path}")
+                  print(f'✅ [SUCCESS] {file_path}')
               except Exception as e:
-                  print(f"❌ [ERROR] {file_path} - সিনট্যাক্স ভুল আছে!")
-                  print(f"   ডিটেইলস: {e}\n")
+                  print(f'❌ [ERROR] {file_path} - সিনট্যাক্স ভুল আছে!')
+                  print(f'   ভুলের কারণ: {e}\n')
                   has_error = True
 
           if has_error:
-              print("\n⚠️ কিছু JSON ফাইলে গঠনগত ভুল রয়েছে। দয়া করে কমা বা ব্র্যাকেট চেক করুন।")
               sys.exit(1)
-          else:
-              print("\n🎉 সব JSON ফাইলের সিনট্যাক্স ১০০% সঠিক!")
-          '
+          "
           
