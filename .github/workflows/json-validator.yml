@@ -16,7 +16,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Validate All JSON Files
+      - name: Validate JSON Syntax
         run: |
           python3 -c "
           import json, glob, sys
@@ -24,23 +24,26 @@ jobs:
           files = [f for f in glob.glob('**/*.json', recursive=True) if 'node_modules' not in f and not f.startswith('.github')]
 
           if not files:
-              print('ℹ️ কোনো JSON ফাইল পাওয়া যায়নি।')
+              print('INFO: No JSON files found.')
               sys.exit(0)
 
           has_error = False
-          print(f'🔍 মোট {len(files)} টি JSON ফাইল চেক করা হচ্ছে...\n')
+          print(f'Checking {len(files)} JSON files...\n')
 
           for file_path in files:
               try:
                   with open(file_path, 'r', encoding='utf-8') as f:
                       json.load(f)
-                  print(f'✅ [SUCCESS] {file_path}')
+                  print(f'[SUCCESS] {file_path}')
               except Exception as e:
-                  print(f'❌ [ERROR] {file_path} - সিনট্যাক্স ভুল আছে!')
-                  print(f'   ভুলের কারণ: {e}\n')
+                  print(f'[ERROR] {file_path}')
+                  print(f'Details: {e}\n')
                   has_error = True
 
           if has_error:
+              print('FAIL: Some JSON files have syntax errors.')
               sys.exit(1)
+          else:
+              print('SUCCESS: All JSON files are valid.')
           "
           
