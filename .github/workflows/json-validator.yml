@@ -7,6 +7,7 @@ on:
   pull_request:
     paths:
       - '**/*.json'
+  workflow_dispatch: # এটি ম্যানুয়ালি 'Run workflow' করার বাটন যোগ করবে
 
 jobs:
   validate-json:
