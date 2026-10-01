@@ -1,0 +1,2079 @@
+{
+  "subjects": [
+    {
+      "subject_id": "01",
+      "subject_text": "Bangla"
+    },
+    {
+      "subject_id": "02",
+      "subject_text": "English"
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_id": "39",
+      "subject_id": "01",
+      "display_chapter": 20,
+      "chapter_text": "Unit - 01 ❖ Lesson - 39 ❖ Oral Repetition (Page - 23)"
+    },
+    {
+      "chapter_id": "40",
+      "subject_id": "02",
+      "display_chapter": 20,
+      "chapter_text": "Unit - 01 ❖ Lesson - 40 ❖ Oral Repetition (Page - 23)"
+    }
+  ],
+  "words": [
+    {
+      "word_id": "5140",
+      "chapter_id": "39",
+      "display_word": 1,
+      "word_text": "এ+ট+া=এটা",
+      "emoji": "🔹"
+    },
+    {
+      "word_id": "5141",
+      "chapter_id": "39",
+      "display_word": 2,
+      "word_text": "স+স+্+ত+া=সস্তা",
+      "emoji": "💰"
+    },
+    {
+      "word_id": "5142",
+      "chapter_id": "39",
+      "display_word": 3,
+      "word_text": "দ+া+ম+ি=দামি",
+      "emoji": "💎"
+    },
+    {
+      "word_id": "5143",
+      "chapter_id": "39",
+      "display_word": 4,
+      "word_text": "স+ত+্+য+ি=সত্যি",
+      "emoji": "✅"
+    },
+    {
+      "word_id": "5144",
+      "chapter_id": "39",
+      "display_word": 5,
+      "word_text": "ন+া=না",
+      "emoji": "🚫"
+    },
+    {
+      "word_id": "5145",
+      "chapter_id": "39",
+      "display_word": 6,
+      "word_text": "শ+ু+ধ+ু=শুধু",
+      "emoji": "🔹"
+    },
+    {
+      "word_id": "5146",
+      "chapter_id": "39",
+      "display_word": 7,
+      "word_text": "এ+ক=এক",
+      "emoji": "🔹"
+    },
+    {
+      "word_id": "5147",
+      "chapter_id": "39",
+      "display_word": 8,
+      "word_text": "ম+ি+ন+ি+ট=মিনিট",
+      "emoji": "⏰"
+    },
+    {
+      "word_id": "5148",
+      "chapter_id": "39",
+      "display_word": 9,
+      "word_text": "ম+ু+হ+ূ+র+্+ত=মুহূর্ত",
+      "emoji": "⏰"
+    },
+    {
+      "word_id": "5149",
+      "chapter_id": "39",
+      "display_word": 10,
+      "word_text": "ত+ু+ম+ি=তুমি",
+      "emoji": "🔹"
+    },
+    {
+      "word_id": "5150",
+      "chapter_id": "39",
+      "display_word": 11,
+      "word_text": "আ+ব+া+র=আবার",
+      "emoji": "🔁"
+    },
+    {
+      "word_id": "5151",
+      "chapter_id": "39",
+      "display_word": 12,
+      "word_text": "এ+স+ে+ছ=এসেছ",
+      "emoji": "🚶"
+    },
+    {
+      "word_id": "5152",
+      "chapter_id": "39",
+      "display_word": 13,
+      "word_text": "ব+া+ব+া=বাবা",
+      "emoji": "👨"
+    },
+    {
+      "word_id": "5153",
+      "chapter_id": "39",
+      "display_word": 14,
+      "word_text": "ব+া+ড+়+ি+ত+ে=বাড়িতে",
+      "emoji": "🏠"
+    },
+    {
+      "word_id": "5154",
+      "chapter_id": "39",
+      "display_word": 15,
+      "word_text": "ন+ে+ই=নেই",
+      "emoji": "🚫"
+    },
+    {
+      "word_id": "5155",
+      "chapter_id": "39",
+      "display_word": 16,
+      "word_text": "ত+ি+ন+ি=তিনি",
+      "emoji": "👤"
+    },
+    {
+      "word_id": "5156",
+      "chapter_id": "39",
+      "display_word": 17,
+      "word_text": "এ+খ+ন+ো=এখনো",
+      "emoji": "⏳"
+    },
+    {
+      "word_id": "5157",
+      "chapter_id": "39",
+      "display_word": 18,
+      "word_text": "আ+স+ে+ন+ন+ি=আসেননি",
+      "emoji": "🚶"
+    },
+    {
+      "word_id": "5158",
+      "chapter_id": "39",
+      "display_word": 19,
+      "word_text": "আ+ম+ি=আমি",
+      "emoji": "🙋"
+    },
+    {
+      "word_id": "5159",
+      "chapter_id": "39",
+      "display_word": 20,
+      "word_text": "জ+া+ন+ি=জানি",
+      "emoji": "🧠"
+    },
+    {
+      "word_id": "5160",
+      "chapter_id": "39",
+      "display_word": 21,
+      "word_text": "স+ে=সে",
+      "emoji": "🔹"
+    },
+    {
+      "word_id": "5161",
+      "chapter_id": "39",
+      "display_word": 22,
+      "word_text": "ক+খ+ন=কখন",
+      "emoji": "❓"
+    },
+    {
+      "word_id": "5162",
+      "chapter_id": "39",
+      "display_word": 23,
+      "word_text": "ফ+ি+র+ব+ে=ফিরবে",
+      "emoji": "🔙"
+    },
+    {
+      "word_id": "5163",
+      "chapter_id": "39",
+      "display_word": 24,
+      "word_text": "আ+স+ব+ে=আসবে",
+      "emoji": "🚶"
+    },
+    {
+      "word_id": "5164",
+      "chapter_id": "39",
+      "display_word": 25,
+      "word_text": "ক+া+উ+ক+ে=কাউকে",
+      "emoji": "👤"
+    },
+    {
+      "word_id": "5165",
+      "chapter_id": "39",
+      "display_word": 26,
+      "word_text": "জ+ি+জ+্+ঞ+ে+স=জিজ্ঞেস",
+      "emoji": "❓"
+    },
+    {
+      "word_id": "5166",
+      "chapter_id": "39",
+      "display_word": 27,
+      "word_text": "ক+র=কর",
+      "emoji": "🔧"
+    },
+    {
+      "word_id": "5167",
+      "chapter_id": "39",
+      "display_word": 28,
+      "word_text": "অ+ন+্+য=অন্য",
+      "emoji": "👥"
+    },
+    {
+      "word_id": "5168",
+      "chapter_id": "39",
+      "display_word": 29,
+      "word_text": "ফ+ি+র+ত+ে=ফিরতে",
+      "emoji": "🔙"
+    },
+    {
+      "word_id": "5169",
+      "chapter_id": "39",
+      "display_word": 30,
+      "word_text": "দ+ে+র+ি=দেরি",
+      "emoji": "⏰"
+    },
+    {
+      "word_id": "5170",
+      "chapter_id": "39",
+      "display_word": 31,
+      "word_text": "হ+ব+ে=হবে",
+      "emoji": "⏭️"
+    },
+    {
+      "word_id": "5171",
+      "chapter_id": "39",
+      "display_word": 32,
+      "word_text": "এ+ক+জ+ন=একজন",
+      "emoji": "👤"
+    },
+    {
+      "word_id": "5172",
+      "chapter_id": "39",
+      "display_word": 33,
+      "word_text": "ক+া+প+ু+র+ু+ষ=কাপুরুষ",
+      "emoji": "😨"
+    },
+    {
+      "word_id": "5173",
+      "chapter_id": "39",
+      "display_word": 34,
+      "word_text": "ম+ু+ক+্+ত+ি+য+ো+দ+্+ধ+া=মুক্তিযোদ্ধা",
+      "emoji": "🎖️"
+    },
+    {
+      "word_id": "5174",
+      "chapter_id": "39",
+      "display_word": 35,
+      "word_text": "স+ম+্+ভ+ব+ত=সম্ভবত",
+      "emoji": "🤷"
+    },
+    {
+      "word_id": "5175",
+      "chapter_id": "39",
+      "display_word": 36,
+      "word_text": "ক+া+জ=কাজ",
+      "emoji": "💼"
+    },
+    {
+      "word_id": "5176",
+      "chapter_id": "39",
+      "display_word": 37,
+      "word_text": "ক+র+ছ+ে=করছে",
+      "emoji": "🔧"
+    },
+    {
+      "word_id": "5177",
+      "chapter_id": "39",
+      "display_word": 38,
+      "word_text": "ত+া+ক+ে=তাকে",
+      "emoji": "👤"
+    },
+    {
+      "word_id": "5178",
+      "chapter_id": "39",
+      "display_word": 39,
+      "word_text": "ব+ি+র+ক+্+ত=বিরক্ত",
+      "emoji": "😣"
+    },
+    {
+      "word_id": "5179",
+      "chapter_id": "39",
+      "display_word": 40,
+      "word_text": "ক+র+ো=করো",
+      "emoji": "🔧"
+    },
+    {
+      "word_id": "5180",
+      "chapter_id": "39",
+      "display_word": 41,
+      "word_text": "ক+ি+ছ+ু=কিছু",
+      "emoji": "📦"
+    },
+    {
+      "word_id": "5181",
+      "chapter_id": "39",
+      "display_word": 42,
+      "word_text": "ঘ+ট+ে+ছ+ে=ঘটেছে",
+      "emoji": "🕐"
+    },
+    {
+      "word_id": "5182",
+      "chapter_id": "39",
+      "display_word": 43,
+      "word_text": "ন+ি+র+া+ম+ি+ষ+ভ+ো+জ+ী=নিরামিষভোজী",
+      "emoji": "🥗"
+    },
+    {
+      "word_id": "5183",
+      "chapter_id": "39",
+      "display_word": 44,
+      "word_text": "ন+য+়=নয়",
+      "emoji": "🚫"
+    },
+    {
+      "word_id": "5184",
+      "chapter_id": "39",
+      "display_word": 45,
+      "word_text": "ন+ই=নই",
+      "emoji": "🚫"
+    },
+    {
+      "word_id": "5185",
+      "chapter_id": "39",
+      "display_word": 46,
+      "word_text": "শ+ক+্+ত+ি+শ+া+ল+ী=শক্তিশালী",
+      "emoji": "💪"
+    },
+    {
+      "word_id": "5186",
+      "chapter_id": "39",
+      "display_word": 47,
+      "word_text": "স+্+ম+ৃ+ত+ি=স্মৃতি",
+      "emoji": "🧠"
+    },
+    {
+      "word_id": "5187",
+      "chapter_id": "39",
+      "display_word": 48,
+      "word_text": "র+া+খ+ে=রাখে",
+      "emoji": "📥"
+    },
+    {
+      "word_id": "5188",
+      "chapter_id": "39",
+      "display_word": 49,
+      "word_text": "স+ব+স+ম+য+়=সবসময়",
+      "emoji": "♾️"
+    },
+    {
+      "word_id": "5189",
+      "chapter_id": "39",
+      "display_word": 50,
+      "word_text": "ম+া+ন+ি+ব+্+য+া+গ+ে=মানিব্যাগে",
+      "emoji": "👛"
+    },
+    {
+      "word_id": "5190",
+      "chapter_id": "39",
+      "display_word": 51,
+      "word_text": "ট+া+ক+া=টাকা",
+      "emoji": "💰"
+    },
+    {
+      "word_id": "5191",
+      "chapter_id": "39",
+      "display_word": 52,
+      "word_text": "র+া+খ+ি=রাখি",
+      "emoji": "📥"
+    },
+    {
+      "word_id": "5192",
+      "chapter_id": "39",
+      "display_word": 53,
+      "word_text": "এ+খ+ন=এখন",
+      "emoji": "🕐"
+    },
+    {
+      "word_id": "5193",
+      "chapter_id": "39",
+      "display_word": 54,
+      "word_text": "ত+ো+ম+া+র=তোমার",
+      "emoji": "👉"
+    },
+    {
+      "word_id": "5194",
+      "chapter_id": "39",
+      "display_word": 55,
+      "word_text": "ব+া+ড+়+ি=বাড়ি",
+      "emoji": "🏠"
+    },
+    {
+      "word_id": "5195",
+      "chapter_id": "39",
+      "display_word": 56,
+      "word_text": "য+া+ও+য+়+া=যাওয়া",
+      "emoji": "🚶"
+    },
+    {
+      "word_id": "5196",
+      "chapter_id": "39",
+      "display_word": 57,
+      "word_text": "উ+চ+ি+ত=উচিত",
+      "emoji": "✅"
+    },
+    {
+      "word_id": "5197",
+      "chapter_id": "39",
+      "display_word": 58,
+      "word_text": "স+ত+র+্+ক=সতর্ক",
+      "emoji": "⚠️"
+    },
+    {
+      "word_id": "5198",
+      "chapter_id": "39",
+      "display_word": 59,
+      "word_text": "হ+ও+য+়+া=হওয়া",
+      "emoji": "⏭️"
+    },
+    {
+      "word_id": "5199",
+      "chapter_id": "39",
+      "display_word": 60,
+      "word_text": "এ+ক+ট+া=একটা",
+      "emoji": "🔢"
+    },
+    {
+      "word_id": "5200",
+      "chapter_id": "39",
+      "display_word": 61,
+      "word_text": "ব+ড+়=বড়",
+      "emoji": "⬆️"
+    },
+    {
+      "word_id": "5201",
+      "chapter_id": "39",
+      "display_word": 62,
+      "word_text": "গ+ভ+ী+র=গভীর",
+      "emoji": "⬇️"
+    },
+    {
+      "word_id": "5202",
+      "chapter_id": "39",
+      "display_word": 63,
+      "word_text": "প+ু+ক+ু+র=পুকুর",
+      "emoji": "🌊"
+    },
+    {
+      "word_id": "5203",
+      "chapter_id": "39",
+      "display_word": 64,
+      "word_text": "ন+ত+ু+ন=নতুন",
+      "emoji": "✨"
+    },
+    {
+      "word_id": "5204",
+      "chapter_id": "39",
+      "display_word": 65,
+      "word_text": "প+ু+র+ন+ো=পুরনো",
+      "emoji": "👴"
+    },
+    {
+      "word_id": "5205",
+      "chapter_id": "39",
+      "display_word": 66,
+      "word_text": "স+ে+ক+ে+ন+্+ড+হ+্+য+া+ন+্+ড=সেকেন্ডহ্যান্ড",
+      "emoji": "♻️"
+    },
+    {
+      "word_id": "5206",
+      "chapter_id": "39",
+      "display_word": 67,
+      "word_text": "ট+ি+ভ+ি=টিভি",
+      "emoji": "📺"
+    },
+    {
+      "word_id": "5207",
+      "chapter_id": "39",
+      "display_word": 68,
+      "word_text": "প+া+ঁ+চ=পাঁচ",
+      "emoji": "🔢"
+    },
+    {
+      "word_id": "5208",
+      "chapter_id": "39",
+      "display_word": 69,
+      "word_text": "হ+া+জ+া+র=হাজার",
+      "emoji": "💰"
+    },
+    {
+      "word_id": "5209",
+      "chapter_id": "39",
+      "display_word": 70,
+      "word_text": "প+্+র+ত+ি+ট+ি=প্রতিটি",
+      "emoji": "🔢"
+    },
+    {
+      "word_id": "5210",
+      "chapter_id": "39",
+      "display_word": 71,
+      "word_text": "ফ+া+র+স+ি=ফারসি",
+      "emoji": "🇮🇷"
+    },
+    {
+      "word_id": "5211",
+      "chapter_id": "39",
+      "display_word": 72,
+      "word_text": "খ+ু+ব=খুব",
+      "emoji": "⭐"
+    },
+    {
+      "word_id": "5212",
+      "chapter_id": "39",
+      "display_word": 73,
+      "word_text": "প+ছ+ন+্+দ=পছন্দ",
+      "emoji": "❤️"
+    },
+    {
+      "word_id": "5213",
+      "chapter_id": "39",
+      "display_word": 74,
+      "word_text": "ক+র+ি=করি",
+      "emoji": "🙋"
+    },
+    {
+      "word_id": "5214",
+      "chapter_id": "39",
+      "display_word": 75,
+      "word_text": "এ=এ",
+      "emoji": "🔹"
+    },
+    {
+      "word_id": "5215",
+      "chapter_id": "39",
+      "display_word": 76,
+      "word_text": "ব+ি+ষ+য+়+ে=বিষয়ে",
+      "emoji": "ℹ️"
+    },
+    {
+      "word_id": "5216",
+      "chapter_id": "39",
+      "display_word": 77,
+      "word_text": "ন+ী+র+ব=নীরব",
+      "emoji": "🤫"
+    },
+    {
+      "word_id": "5217",
+      "chapter_id": "39",
+      "display_word": 78,
+      "word_text": "স+ং+ক+্+ষ+ি+প+্+ত=সংক্ষিপ্ত",
+      "emoji": "🤏"
+    },
+    {
+      "word_id": "5218",
+      "chapter_id": "39",
+      "display_word": 79,
+      "word_text": "স+ম+য+়=সময়",
+      "emoji": "⏰"
+    },
+    {
+      "word_id": "5219",
+      "chapter_id": "39",
+      "display_word": 80,
+      "word_text": "ন+ষ+্+ট=নষ্ট",
+      "emoji": "❌"
+    },
+    {
+      "word_id": "5220",
+      "chapter_id": "39",
+      "display_word": 81,
+      "word_text": "ক+র+া+র=করার",
+      "emoji": "🔹"
+    },
+    {
+      "word_id": "5221",
+      "chapter_id": "39",
+      "display_word": 82,
+      "word_text": "জ+ন+্+য=জন্য",
+      "emoji": "🎯"
+    },
+    {
+      "word_id": "5222",
+      "chapter_id": "39",
+      "display_word": 83,
+      "word_text": "দ+ু+ঃ+খ+ি+ত=দুঃখিত",
+      "emoji": "😔"
+    },
+    {
+      "word_id": "5223",
+      "chapter_id": "39",
+      "display_word": 84,
+      "word_text": "ম+য+়+ল+া=ময়লা",
+      "emoji": "🤢"
+    },
+    {
+      "word_id": "5224",
+      "chapter_id": "39",
+      "display_word": 85,
+      "word_text": "গ+ো+স+ল=গোসল",
+      "emoji": "🛁"
+    },
+    {
+      "word_id": "5225",
+      "chapter_id": "39",
+      "display_word": 86,
+      "word_text": "চ+া+ল+া+ক+ি=চালাকি",
+      "emoji": "🦊"
+    },
+    {
+      "word_id": "5226",
+      "chapter_id": "39",
+      "display_word": 87,
+      "word_text": "দ+য+়+া=দয়া",
+      "emoji": "🔹"
+    },
+    {
+      "word_id": "5227",
+      "chapter_id": "39",
+      "display_word": 88,
+      "word_text": "ক+র+ে=করে",
+      "emoji": "🔹"
+    },
+    {
+      "word_id": "5228",
+      "chapter_id": "39",
+      "display_word": 89,
+      "word_text": "ব+দ+ল+া+ও=বদলাও",
+      "emoji": "🔄"
+    },
+    {
+      "word_id": "5229",
+      "chapter_id": "39",
+      "display_word": 90,
+      "word_text": "আ+র+ো=আরো",
+      "emoji": "➕"
+    },
+    {
+      "word_id": "5230",
+      "chapter_id": "39",
+      "display_word": 91,
+      "word_text": "খ+া+র+া+প=খারাপ",
+      "emoji": "👎"
+    },
+    {
+      "word_id": "5231",
+      "chapter_id": "39",
+      "display_word": 92,
+      "word_text": "চ+ম+ৎ+ক+া+র=চমৎকার",
+      "emoji": "⭐"
+    },
+    {
+      "word_id": "5232",
+      "chapter_id": "39",
+      "display_word": 93,
+      "word_text": "ম+া+ন=মান",
+      "emoji": "⭐"
+    },
+    {
+      "word_id": "5233",
+      "chapter_id": "39",
+      "display_word": 94,
+      "word_text": "আ+ম+া+র=আমার",
+      "emoji": "🔹"
+    },
+    {
+      "word_id": "5234",
+      "chapter_id": "39",
+      "display_word": 95,
+      "word_text": "জ+ু+ত+া=জুতা",
+      "emoji": "👟"
+    },
+    {
+      "word_id": "5235",
+      "chapter_id": "39",
+      "display_word": 96,
+      "word_text": "ন+ো+ং+র+া=নোংরা",
+      "emoji": "🤢"
+    },
+    {
+      "word_id": "5236",
+      "chapter_id": "39",
+      "display_word": 97,
+      "word_text": "আ+ম+া+ক+ে=আমাকে",
+      "emoji": "🙋"
+    },
+    {
+      "word_id": "5237",
+      "chapter_id": "39",
+      "display_word": 98,
+      "word_text": "ঠ+ক+ি+য+়+ে+ছ+ে=ঠকিয়েছে",
+      "emoji": "🤥"
+    },
+    {
+      "word_id": "5238",
+      "chapter_id": "39",
+      "display_word": 99,
+      "word_text": "স+ব+ক+ি+ছ+ু=সবকিছু",
+      "emoji": "🔹"
+    },
+    {
+      "word_id": "5239",
+      "chapter_id": "39",
+      "display_word": 100,
+      "word_text": "য+া+চ+া+ই=যাচাই",
+      "emoji": "✅"
+    },
+    {
+      "word_id": "5240",
+      "chapter_id": "39",
+      "display_word": 101,
+      "word_text": "ম+ন+ে=মনে",
+      "emoji": "🧠"
+    },
+    {
+      "word_id": "5241",
+      "chapter_id": "39",
+      "display_word": 102,
+      "word_text": "র+ে+খ+ো=রেখো",
+      "emoji": "📥"
+    },
+    {
+      "word_id": "5242",
+      "chapter_id": "39",
+      "display_word": 103,
+      "word_text": "এ+ই=এই",
+      "emoji": "👉"
+    },
+    {
+      "word_id": "5243",
+      "chapter_id": "39",
+      "display_word": 104,
+      "word_text": "র+ঙ+ট+া=রঙটা",
+      "emoji": "🎨"
+    },
+    {
+      "word_id": "5244",
+      "chapter_id": "39",
+      "display_word": 105,
+      "word_text": "ছ+া+ড+়+া=ছাড়া",
+      "emoji": "❌"
+    },
+    {
+      "word_id": "5245",
+      "chapter_id": "39",
+      "display_word": 106,
+      "word_text": "ক+া+ল+ো=কালো",
+      "emoji": "⬛"
+    },
+    {
+      "word_id": "5246",
+      "chapter_id": "39",
+      "display_word": 107,
+      "word_text": "আ+র=আর",
+      "emoji": "➕"
+    },
+    {
+      "word_id": "5247",
+      "chapter_id": "39",
+      "display_word": 108,
+      "word_text": "ম+া+ন+া+ব+ে=মানাবে",
+      "emoji": "👕"
+    },
+    {
+      "word_id": "5248",
+      "chapter_id": "39",
+      "display_word": 109,
+      "word_text": "ট+ি+ভ+ি+র=টিভির",
+      "emoji": "📺"
+    },
+    {
+      "word_id": "5249",
+      "chapter_id": "39",
+      "display_word": 110,
+      "word_text": "ভ+ল+ি+উ+ম=ভলিউম",
+      "emoji": "🔊"
+    },
+    {
+      "word_id": "5250",
+      "chapter_id": "39",
+      "display_word": 111,
+      "word_text": "ক+ম+ি+য+়+ে=কমিয়ে",
+      "emoji": "⬇️"
+    },
+    {
+      "word_id": "5251",
+      "chapter_id": "39",
+      "display_word": 112,
+      "word_text": "দ+া+ও=দাও",
+      "emoji": "🤲"
+    },
+    {
+      "word_id": "5252",
+      "chapter_id": "39",
+      "display_word": 113,
+      "word_text": "ব+া+ড+়+ি+য+়+ে=বাড়িয়ে",
+      "emoji": "⬆️"
+    },
+    {
+      "word_id": "5253",
+      "chapter_id": "39",
+      "display_word": 114,
+      "word_text": "য+ে+ত+ে=যেতে",
+      "emoji": "🚶"
+    },
+    {
+      "word_id": "5254",
+      "chapter_id": "39",
+      "display_word": 115,
+      "word_text": "চ+ি+ন+ি=চিনি",
+      "emoji": "👀"
+    },
+    {
+      "word_id": "5255",
+      "chapter_id": "39",
+      "display_word": 116,
+      "word_text": "চ+ি+ন+ত+ে=চিনতে",
+      "emoji": "👀"
+    },
+    {
+      "word_id": "5256",
+      "chapter_id": "39",
+      "display_word": 117,
+      "word_text": "প+া+র+ব=পারব",
+      "emoji": "✅"
+    },
+    {
+      "word_id": "5257",
+      "chapter_id": "39",
+      "display_word": 118,
+      "word_text": "দ+ে+খ+ল+ে=দেখলে",
+      "emoji": "👀"
+    },
+    {
+      "word_id": "5258",
+      "chapter_id": "39",
+      "display_word": 119,
+      "word_text": "হ+া+ত=হাত",
+      "emoji": "🤲"
+    },
+    {
+      "word_id": "5259",
+      "chapter_id": "39",
+      "display_word": 120,
+      "word_text": "প+া=পা",
+      "emoji": "🦶"
+    },
+    {
+      "word_id": "5260",
+      "chapter_id": "39",
+      "display_word": 121,
+      "word_text": "দ+ে+খ=দেখ",
+      "emoji": "👀"
+    },
+    {
+      "word_id": "5261",
+      "chapter_id": "39",
+      "display_word": 122,
+      "word_text": "আ+জ=আজ",
+      "emoji": "📅"
+    },
+    {
+      "word_id": "5262",
+      "chapter_id": "39",
+      "display_word": 123,
+      "word_text": "স+া+থ+ে=সাথে",
+      "emoji": "🤝"
+    },
+    {
+      "word_id": "5263",
+      "chapter_id": "39",
+      "display_word": 124,
+      "word_text": "খ+ে+ল+ব=খেলব",
+      "emoji": "🎮"
+    },
+    {
+      "word_id": "5264",
+      "chapter_id": "39",
+      "display_word": 125,
+      "word_text": "স+া+ত=সাত",
+      "emoji": "🔢"
+    },
+    {
+      "word_id": "5265",
+      "chapter_id": "39",
+      "display_word": 126,
+      "word_text": "ব+ছ+র=বছর",
+      "emoji": "📅"
+    },
+    {
+      "word_id": "5266",
+      "chapter_id": "39",
+      "display_word": 127,
+      "word_text": "আ+গ+ে=আগে",
+      "emoji": "⏮️"
+    },
+    {
+      "word_id": "5267",
+      "chapter_id": "39",
+      "display_word": 128,
+      "word_text": "আ+স+ত+ে=আসতে",
+      "emoji": "🚶"
+    },
+    {
+      "word_id": "5268",
+      "chapter_id": "39",
+      "display_word": 129,
+      "word_text": "অ+ন+ে+ক=অনেক",
+      "emoji": "➕"
+    },
+    {
+      "word_id": "5269",
+      "chapter_id": "39",
+      "display_word": 130,
+      "word_text": "ল+া+গ+ব+ে=লাগবে",
+      "emoji": "⏭️"
+    },
+    {
+      "word_id": "5270",
+      "chapter_id": "39",
+      "display_word": 131,
+      "word_text": "ব+ে+শ+ি=বেশি",
+      "emoji": "➕"
+    },
+    {
+      "word_id": "5271",
+      "chapter_id": "39",
+      "display_word": 132,
+      "word_text": "দ+ি+ও=দিও",
+      "emoji": "🤲"
+    },
+    {
+      "word_id": "5272",
+      "chapter_id": "39",
+      "display_word": 133,
+      "word_text": "ত+া+র=তার",
+      "emoji": "👤"
+    },
+    {
+      "word_id": "5273",
+      "chapter_id": "39",
+      "display_word": 134,
+      "word_text": "স+ম+্+প+র+্+ক+ে=সম্পর্কে",
+      "emoji": "🔗"
+    },
+    {
+      "word_id": "5274",
+      "chapter_id": "39",
+      "display_word": 135,
+      "word_text": "ক+ো+ন+ো=কোনো",
+      "emoji": "❓"
+    },
+    {
+      "word_id": "5275",
+      "chapter_id": "39",
+      "display_word": 136,
+      "word_text": "ভ+ু+ল+ি+ন+ি=ভুলিনি",
+      "emoji": "🧠"
+    },
+    {
+      "word_id": "5276",
+      "chapter_id": "39",
+      "display_word": 137,
+      "word_text": "ক+ি+ছ+ু+ই=কিছুই",
+      "emoji": "🚫"
+    },
+    {
+      "word_id": "5277",
+      "chapter_id": "39",
+      "display_word": 138,
+      "word_text": "ব+ল+ি+ন+ি=বলিনি",
+      "emoji": "🗣️"
+    },
+    {
+      "word_id": "5278",
+      "chapter_id": "40",
+      "display_word": 1,
+      "word_text": "i+t+s=its",
+      "emoji": "👉"
+    },
+    {
+      "word_id": "5279",
+      "chapter_id": "40",
+      "display_word": 2,
+      "word_text": "c+h+e+a+p=cheap",
+      "emoji": "💰"
+    },
+    {
+      "word_id": "5280",
+      "chapter_id": "40",
+      "display_word": 3,
+      "word_text": "t+h+a+t+s=thats",
+      "emoji": "👉"
+    },
+    {
+      "word_id": "5281",
+      "chapter_id": "40",
+      "display_word": 4,
+      "word_text": "e+x+p+e+n+s+i+v+e=expensive",
+      "emoji": "💎"
+    },
+    {
+      "word_id": "5282",
+      "chapter_id": "40",
+      "display_word": 5,
+      "word_text": "n+o+t=not",
+      "emoji": "🚫"
+    },
+    {
+      "word_id": "5283",
+      "chapter_id": "40",
+      "display_word": 6,
+      "word_text": "t+r+u+e=true",
+      "emoji": "✅"
+    },
+    {
+      "word_id": "5284",
+      "chapter_id": "40",
+      "display_word": 7,
+      "word_text": "r+i+g+h+t=right",
+      "emoji": "✅"
+    },
+    {
+      "word_id": "5285",
+      "chapter_id": "40",
+      "display_word": 8,
+      "word_text": "j+u+s+t=just",
+      "emoji": "☝️"
+    },
+    {
+      "word_id": "5286",
+      "chapter_id": "40",
+      "display_word": 9,
+      "word_text": "a=a",
+      "emoji": "🔤"
+    },
+    {
+      "word_id": "5287",
+      "chapter_id": "40",
+      "display_word": 10,
+      "word_text": "m+i+n+u+t+e=minute",
+      "emoji": "⏰"
+    },
+    {
+      "word_id": "5288",
+      "chapter_id": "40",
+      "display_word": 11,
+      "word_text": "m+o+m+e+n+t=moment",
+      "emoji": "⏰"
+    },
+    {
+      "word_id": "5289",
+      "chapter_id": "40",
+      "display_word": 12,
+      "word_text": "y+o+u=you",
+      "emoji": "👉"
+    },
+    {
+      "word_id": "5290",
+      "chapter_id": "40",
+      "display_word": 13,
+      "word_text": "a+g+a+i+n=again",
+      "emoji": "🔁"
+    },
+    {
+      "word_id": "5291",
+      "chapter_id": "40",
+      "display_word": 14,
+      "word_text": "f+a+t+h+e+r=father",
+      "emoji": "👨"
+    },
+    {
+      "word_id": "5292",
+      "chapter_id": "40",
+      "display_word": 15,
+      "word_text": "i+s=is",
+      "emoji": "🟰"
+    },
+    {
+      "word_id": "5293",
+      "chapter_id": "40",
+      "display_word": 16,
+      "word_text": "a+t=at",
+      "emoji": "📍"
+    },
+    {
+      "word_id": "5294",
+      "chapter_id": "40",
+      "display_word": 17,
+      "word_text": "h+o+m+e=home",
+      "emoji": "🏠"
+    },
+    {
+      "word_id": "5295",
+      "chapter_id": "40",
+      "display_word": 18,
+      "word_text": "h+e=he",
+      "emoji": "👤"
+    },
+    {
+      "word_id": "5296",
+      "chapter_id": "40",
+      "display_word": 19,
+      "word_text": "w+e+n+t=went",
+      "emoji": "🚶"
+    },
+    {
+      "word_id": "5297",
+      "chapter_id": "40",
+      "display_word": 20,
+      "word_text": "o+u+t+s+i+d+e=outside",
+      "emoji": "📤"
+    },
+    {
+      "word_id": "5298",
+      "chapter_id": "40",
+      "display_word": 21,
+      "word_text": "h+a+s=has",
+      "emoji": "🤲"
+    },
+    {
+      "word_id": "5299",
+      "chapter_id": "40",
+      "display_word": 22,
+      "word_text": "c+o+m+e=come",
+      "emoji": "🚶"
+    },
+    {
+      "word_id": "5300",
+      "chapter_id": "40",
+      "display_word": 23,
+      "word_text": "y+e+t=yet",
+      "emoji": "⏳"
+    },
+    {
+      "word_id": "5301",
+      "chapter_id": "40",
+      "display_word": 24,
+      "word_text": "i=i",
+      "emoji": "🔹"
+    },
+    {
+      "word_id": "5302",
+      "chapter_id": "40",
+      "display_word": 25,
+      "word_text": "d+o+n+t=dont",
+      "emoji": "🚫"
+    },
+    {
+      "word_id": "5303",
+      "chapter_id": "40",
+      "display_word": 26,
+      "word_text": "k+n+o+w=know",
+      "emoji": "🧠"
+    },
+    {
+      "word_id": "5304",
+      "chapter_id": "40",
+      "display_word": 27,
+      "word_text": "w+h+e+n=when",
+      "emoji": "❓"
+    },
+    {
+      "word_id": "5305",
+      "chapter_id": "40",
+      "display_word": 28,
+      "word_text": "w+i+l+l=will",
+      "emoji": "⏭️"
+    },
+    {
+      "word_id": "5306",
+      "chapter_id": "40",
+      "display_word": 29,
+      "word_text": "r+e+t+u+r+n=return",
+      "emoji": "🔙"
+    },
+    {
+      "word_id": "5307",
+      "chapter_id": "40",
+      "display_word": 30,
+      "word_text": "b+a+c+k=back",
+      "emoji": "🔙"
+    },
+    {
+      "word_id": "5308",
+      "chapter_id": "40",
+      "display_word": 31,
+      "word_text": "a+s+k=ask",
+      "emoji": "❓"
+    },
+    {
+      "word_id": "5309",
+      "chapter_id": "40",
+      "display_word": 32,
+      "word_text": "a+n+y+o+n+e=anyone",
+      "emoji": "👤"
+    },
+    {
+      "word_id": "5310",
+      "chapter_id": "40",
+      "display_word": 33,
+      "word_text": "s+o+m+e+o+n+e=someone",
+      "emoji": "👤"
+    },
+    {
+      "word_id": "5311",
+      "chapter_id": "40",
+      "display_word": 34,
+      "word_text": "e+l+s+e=else",
+      "emoji": "➕"
+    },
+    {
+      "word_id": "5312",
+      "chapter_id": "40",
+      "display_word": 35,
+      "word_text": "i+t=it",
+      "emoji": "👉"
+    },
+    {
+      "word_id": "5313",
+      "chapter_id": "40",
+      "display_word": 36,
+      "word_text": "b+e=be",
+      "emoji": "🟰"
+    },
+    {
+      "word_id": "5314",
+      "chapter_id": "40",
+      "display_word": 37,
+      "word_text": "l+a+t+e=late",
+      "emoji": "⏰"
+    },
+    {
+      "word_id": "5315",
+      "chapter_id": "40",
+      "display_word": 38,
+      "word_text": "t+o=to",
+      "emoji": "➡️"
+    },
+    {
+      "word_id": "5316",
+      "chapter_id": "40",
+      "display_word": 39,
+      "word_text": "a+r+e=are",
+      "emoji": "🟰"
+    },
+    {
+      "word_id": "5317",
+      "chapter_id": "40",
+      "display_word": 40,
+      "word_text": "c+o+w+a+r+d=coward",
+      "emoji": "😨"
+    },
+    {
+      "word_id": "5318",
+      "chapter_id": "40",
+      "display_word": 41,
+      "word_text": "f+r+e+e+d+o+m=freedom",
+      "emoji": "🎖️"
+    },
+    {
+      "word_id": "5319",
+      "chapter_id": "40",
+      "display_word": 42,
+      "word_text": "f+i+g+h+t+e+r=fighter",
+      "emoji": "🎖️"
+    },
+    {
+      "word_id": "5320",
+      "chapter_id": "40",
+      "display_word": 43,
+      "word_text": "p+e+r+h+a+p+s=perhaps",
+      "emoji": "🤷"
+    },
+    {
+      "word_id": "5321",
+      "chapter_id": "40",
+      "display_word": 44,
+      "word_text": "w+o+r+k+i+n+g=working",
+      "emoji": "💼"
+    },
+    {
+      "word_id": "5322",
+      "chapter_id": "40",
+      "display_word": 45,
+      "word_text": "d+i+s+t+u+r+b=disturb",
+      "emoji": "😣"
+    },
+    {
+      "word_id": "5323",
+      "chapter_id": "40",
+      "display_word": 46,
+      "word_text": "h+i+m=him",
+      "emoji": "👤"
+    },
+    {
+      "word_id": "5324",
+      "chapter_id": "40",
+      "display_word": 47,
+      "word_text": "o+r=or",
+      "emoji": "🔀"
+    },
+    {
+      "word_id": "5325",
+      "chapter_id": "40",
+      "display_word": 48,
+      "word_text": "s+t+o+p=stop",
+      "emoji": "🛑"
+    },
+    {
+      "word_id": "5326",
+      "chapter_id": "40",
+      "display_word": 49,
+      "word_text": "b+o+t+h+e+r+i+n+g=bothering",
+      "emoji": "😣"
+    },
+    {
+      "word_id": "5327",
+      "chapter_id": "40",
+      "display_word": 50,
+      "word_text": "s+o+m+e+t+h+i+n+g=something",
+      "emoji": "📦"
+    },
+    {
+      "word_id": "5328",
+      "chapter_id": "40",
+      "display_word": 51,
+      "word_text": "b+e+e+n=been",
+      "emoji": "🕰️"
+    },
+    {
+      "word_id": "5329",
+      "chapter_id": "40",
+      "display_word": 52,
+      "word_text": "h+a+p+p+e+n+e+d=happened",
+      "emoji": "🕐"
+    },
+    {
+      "word_id": "5330",
+      "chapter_id": "40",
+      "display_word": 53,
+      "word_text": "w+r+o+n+g=wrong",
+      "emoji": "❌"
+    },
+    {
+      "word_id": "5331",
+      "chapter_id": "40",
+      "display_word": 54,
+      "word_text": "v+e+g+e+t+a+r+i+a+n=vegetarian",
+      "emoji": "🥗"
+    },
+    {
+      "word_id": "5332",
+      "chapter_id": "40",
+      "display_word": 55,
+      "word_text": "i+m=im",
+      "emoji": "🙋"
+    },
+    {
+      "word_id": "5333",
+      "chapter_id": "40",
+      "display_word": 56,
+      "word_text": "v+e+r+y=very",
+      "emoji": "⭐"
+    },
+    {
+      "word_id": "5334",
+      "chapter_id": "40",
+      "display_word": 57,
+      "word_text": "s+h+a+r+p=sharp",
+      "emoji": "🧠"
+    },
+    {
+      "word_id": "5335",
+      "chapter_id": "40",
+      "display_word": 58,
+      "word_text": "m+e+m+o+r+y=memory",
+      "emoji": "🧠"
+    },
+    {
+      "word_id": "5336",
+      "chapter_id": "40",
+      "display_word": 59,
+      "word_text": "k+e+e+p+s=keeps",
+      "emoji": "📥"
+    },
+    {
+      "word_id": "5337",
+      "chapter_id": "40",
+      "display_word": 60,
+      "word_text": "m+o+n+e+y=money",
+      "emoji": "💰"
+    },
+    {
+      "word_id": "5338",
+      "chapter_id": "40",
+      "display_word": 61,
+      "word_text": "i+n=in",
+      "emoji": "🏠"
+    },
+    {
+      "word_id": "5339",
+      "chapter_id": "40",
+      "display_word": 62,
+      "word_text": "t+h+e=the",
+      "emoji": "🔹"
+    },
+    {
+      "word_id": "5340",
+      "chapter_id": "40",
+      "display_word": 63,
+      "word_text": "p+o+c+k+e+t=pocket",
+      "emoji": "👖"
+    },
+    {
+      "word_id": "5341",
+      "chapter_id": "40",
+      "display_word": 64,
+      "word_text": "a+l+w+a+y+s=always",
+      "emoji": "♾️"
+    },
+    {
+      "word_id": "5342",
+      "chapter_id": "40",
+      "display_word": 65,
+      "word_text": "k+e+e+p=keep",
+      "emoji": "📥"
+    },
+    {
+      "word_id": "5343",
+      "chapter_id": "40",
+      "display_word": 66,
+      "word_text": "b+a+g=bag",
+      "emoji": "👜"
+    },
+    {
+      "word_id": "5344",
+      "chapter_id": "40",
+      "display_word": 67,
+      "word_text": "s+h+o+u+l+d=should",
+      "emoji": "✅"
+    },
+    {
+      "word_id": "5345",
+      "chapter_id": "40",
+      "display_word": 68,
+      "word_text": "g+o=go",
+      "emoji": "🚶"
+    },
+    {
+      "word_id": "5346",
+      "chapter_id": "40",
+      "display_word": 69,
+      "word_text": "n+o+w=now",
+      "emoji": "🕐"
+    },
+    {
+      "word_id": "5347",
+      "chapter_id": "40",
+      "display_word": 70,
+      "word_text": "b+i+g=big",
+      "emoji": "⬆️"
+    },
+    {
+      "word_id": "5348",
+      "chapter_id": "40",
+      "display_word": 71,
+      "word_text": "d+e+e+p=deep",
+      "emoji": "⬇️"
+    },
+    {
+      "word_id": "5349",
+      "chapter_id": "40",
+      "display_word": 72,
+      "word_text": "p+o+n+d=pond",
+      "emoji": "🌊"
+    },
+    {
+      "word_id": "5350",
+      "chapter_id": "40",
+      "display_word": 73,
+      "word_text": "c+a+r+e+f+u+l=careful",
+      "emoji": "⚠️"
+    },
+    {
+      "word_id": "5351",
+      "chapter_id": "40",
+      "display_word": 74,
+      "word_text": "n+e+w=new",
+      "emoji": "✨"
+    },
+    {
+      "word_id": "5352",
+      "chapter_id": "40",
+      "display_word": 75,
+      "word_text": "t+v=tv",
+      "emoji": "📺"
+    },
+    {
+      "word_id": "5353",
+      "chapter_id": "40",
+      "display_word": 76,
+      "word_text": "o+l+d=old",
+      "emoji": "👴"
+    },
+    {
+      "word_id": "5354",
+      "chapter_id": "40",
+      "display_word": 77,
+      "word_text": "s+e+c+o+n+d=second",
+      "emoji": "2️⃣"
+    },
+    {
+      "word_id": "5355",
+      "chapter_id": "40",
+      "display_word": 78,
+      "word_text": "h+a+n+d=hand",
+      "emoji": "🤲"
+    },
+    {
+      "word_id": "5356",
+      "chapter_id": "40",
+      "display_word": 79,
+      "word_text": "f+i+v+e=five",
+      "emoji": "🔢"
+    },
+    {
+      "word_id": "5357",
+      "chapter_id": "40",
+      "display_word": 80,
+      "word_text": "t+h+o+u+s+a+n+d=thousand",
+      "emoji": "💰"
+    },
+    {
+      "word_id": "5358",
+      "chapter_id": "40",
+      "display_word": 81,
+      "word_text": "t+a+k+a=taka",
+      "emoji": "💰"
+    },
+    {
+      "word_id": "5359",
+      "chapter_id": "40",
+      "display_word": 82,
+      "word_text": "e+a+c+h=each",
+      "emoji": "🔢"
+    },
+    {
+      "word_id": "5360",
+      "chapter_id": "40",
+      "display_word": 83,
+      "word_text": "l+i+k+e=like",
+      "emoji": "❤️"
+    },
+    {
+      "word_id": "5361",
+      "chapter_id": "40",
+      "display_word": 84,
+      "word_text": "p+e+r+s+i+a+n+y=persiany",
+      "emoji": "🇮🇷"
+    },
+    {
+      "word_id": "5362",
+      "chapter_id": "40",
+      "display_word": 85,
+      "word_text": "m+u+c+h=much",
+      "emoji": "➕"
+    },
+    {
+      "word_id": "5363",
+      "chapter_id": "40",
+      "display_word": 86,
+      "word_text": "s+i+l+e+n+t=silent",
+      "emoji": "🤫"
+    },
+    {
+      "word_id": "5364",
+      "chapter_id": "40",
+      "display_word": 87,
+      "word_text": "a+b+o+u+t=about",
+      "emoji": "ℹ️"
+    },
+    {
+      "word_id": "5365",
+      "chapter_id": "40",
+      "display_word": 88,
+      "word_text": "s+h+o+r+t=short",
+      "emoji": "🤏"
+    },
+    {
+      "word_id": "5366",
+      "chapter_id": "40",
+      "display_word": 89,
+      "word_text": "s+i+g+h+t+e+d=sighted",
+      "emoji": "👀"
+    },
+    {
+      "word_id": "5367",
+      "chapter_id": "40",
+      "display_word": 90,
+      "word_text": "s+o+r+r+y=sorry",
+      "emoji": "😔"
+    },
+    {
+      "word_id": "5368",
+      "chapter_id": "40",
+      "display_word": 91,
+      "word_text": "s+p+o+i+l=spoil",
+      "emoji": "❌"
+    },
+    {
+      "word_id": "5369",
+      "chapter_id": "40",
+      "display_word": 92,
+      "word_text": "y+o+u+r=your",
+      "emoji": "👉"
+    },
+    {
+      "word_id": "5370",
+      "chapter_id": "40",
+      "display_word": 93,
+      "word_text": "t+i+m+e=time",
+      "emoji": "⏰"
+    },
+    {
+      "word_id": "5371",
+      "chapter_id": "40",
+      "display_word": 94,
+      "word_text": "d+i+r+t+y=dirty",
+      "emoji": "🤢"
+    },
+    {
+      "word_id": "5372",
+      "chapter_id": "40",
+      "display_word": 95,
+      "word_text": "g+e+t=get",
+      "emoji": "📥"
+    },
+    {
+      "word_id": "5373",
+      "chapter_id": "40",
+      "display_word": 96,
+      "word_text": "a+n+d=and",
+      "emoji": "➕"
+    },
+    {
+      "word_id": "5374",
+      "chapter_id": "40",
+      "display_word": 97,
+      "word_text": "h+a+v+e=have",
+      "emoji": "🤲"
+    },
+    {
+      "word_id": "5375",
+      "chapter_id": "40",
+      "display_word": 98,
+      "word_text": "b+a+t+h=bath",
+      "emoji": "🛁"
+    },
+    {
+      "word_id": "5376",
+      "chapter_id": "40",
+      "display_word": 99,
+      "word_text": "p+l+a+y=play",
+      "emoji": "🎮"
+    },
+    {
+      "word_id": "5377",
+      "chapter_id": "40",
+      "display_word": 100,
+      "word_text": "t+r+i+c+k+s=tricks",
+      "emoji": "🦊"
+    },
+    {
+      "word_id": "5378",
+      "chapter_id": "40",
+      "display_word": 101,
+      "word_text": "p+l+e+a+s+e=please",
+      "emoji": "🙏"
+    },
+    {
+      "word_id": "5379",
+      "chapter_id": "40",
+      "display_word": 102,
+      "word_text": "c+h+a+n+g+e=change",
+      "emoji": "🔄"
+    },
+    {
+      "word_id": "5380",
+      "chapter_id": "40",
+      "display_word": 103,
+      "word_text": "e+v+e+r=ever",
+      "emoji": "♾️"
+    },
+    {
+      "word_id": "5381",
+      "chapter_id": "40",
+      "display_word": 104,
+      "word_text": "w+o+r+s+e=worse",
+      "emoji": "👎"
+    },
+    {
+      "word_id": "5382",
+      "chapter_id": "40",
+      "display_word": 105,
+      "word_text": "v+e+r+t=vert",
+      "emoji": "⬆️"
+    },
+    {
+      "word_id": "5383",
+      "chapter_id": "40",
+      "display_word": 106,
+      "word_text": "e+x+c+e+l+l+e+n+t=excellent",
+      "emoji": "⭐"
+    },
+    {
+      "word_id": "5384",
+      "chapter_id": "40",
+      "display_word": 107,
+      "word_text": "q+u+a+l+i+t+y=quality",
+      "emoji": "⭐"
+    },
+    {
+      "word_id": "5385",
+      "chapter_id": "40",
+      "display_word": 108,
+      "word_text": "m+y=my",
+      "emoji": "🔹"
+    },
+    {
+      "word_id": "5386",
+      "chapter_id": "40",
+      "display_word": 109,
+      "word_text": "j+u+m=jum",
+      "emoji": "👟"
+    },
+    {
+      "word_id": "5387",
+      "chapter_id": "40",
+      "display_word": 110,
+      "word_text": "o+v+e+r=over",
+      "emoji": "⬆️"
+    },
+    {
+      "word_id": "5388",
+      "chapter_id": "40",
+      "display_word": 111,
+      "word_text": "t+h+a+t=that",
+      "emoji": "👉"
+    },
+    {
+      "word_id": "5389",
+      "chapter_id": "40",
+      "display_word": 112,
+      "word_text": "c+h+e+a+t+e+d=cheated",
+      "emoji": "🤥"
+    },
+    {
+      "word_id": "5390",
+      "chapter_id": "40",
+      "display_word": 113,
+      "word_text": "m+e=me",
+      "emoji": "🙋"
+    },
+    {
+      "word_id": "5391",
+      "chapter_id": "40",
+      "display_word": 114,
+      "word_text": "r+e+m+e+m+b+e+r=remember",
+      "emoji": "🧠"
+    },
+    {
+      "word_id": "5392",
+      "chapter_id": "40",
+      "display_word": 115,
+      "word_text": "c+h+e+c+k=check",
+      "emoji": "✅"
+    },
+    {
+      "word_id": "5393",
+      "chapter_id": "40",
+      "display_word": 116,
+      "word_text": "e+v+e+r+y+t+h+i+n+g=everything",
+      "emoji": "🌍"
+    },
+    {
+      "word_id": "5394",
+      "chapter_id": "40",
+      "display_word": 117,
+      "word_text": "t+h+i+s=this",
+      "emoji": "👉"
+    },
+    {
+      "word_id": "5395",
+      "chapter_id": "40",
+      "display_word": 118,
+      "word_text": "o+n+e=one",
+      "emoji": "🔢"
+    },
+    {
+      "word_id": "5396",
+      "chapter_id": "40",
+      "display_word": 119,
+      "word_text": "t+o+o=too",
+      "emoji": "➕"
+    },
+    {
+      "word_id": "5397",
+      "chapter_id": "40",
+      "display_word": 120,
+      "word_text": "l+a+r+g+e=large",
+      "emoji": "⬆️"
+    },
+    {
+      "word_id": "5398",
+      "chapter_id": "40",
+      "display_word": 121,
+      "word_text": "f+o+r=for",
+      "emoji": "🎯"
+    },
+    {
+      "word_id": "5399",
+      "chapter_id": "40",
+      "display_word": 122,
+      "word_text": "a+n+y=any",
+      "emoji": "❓"
+    },
+    {
+      "word_id": "5400",
+      "chapter_id": "40",
+      "display_word": 123,
+      "word_text": "c+o+l+o+r=color",
+      "emoji": "🎨"
+    },
+    {
+      "word_id": "5401",
+      "chapter_id": "40",
+      "display_word": 124,
+      "word_text": "e+x+c+e+p+t=except",
+      "emoji": "❌"
+    },
+    {
+      "word_id": "5402",
+      "chapter_id": "40",
+      "display_word": 125,
+      "word_text": "b+l+a+c+k=black",
+      "emoji": "⬛"
+    },
+    {
+      "word_id": "5403",
+      "chapter_id": "40",
+      "display_word": 126,
+      "word_text": "s+u+i+t=suit",
+      "emoji": "👕"
+    },
+    {
+      "word_id": "5404",
+      "chapter_id": "40",
+      "display_word": 127,
+      "word_text": "t+r+y=try",
+      "emoji": "💪"
+    },
+    {
+      "word_id": "5405",
+      "chapter_id": "40",
+      "display_word": 128,
+      "word_text": "o+n=on",
+      "emoji": "🔛"
+    },
+    {
+      "word_id": "5406",
+      "chapter_id": "40",
+      "display_word": 129,
+      "word_text": "t+u+r+n=turn",
+      "emoji": "🔄"
+    },
+    {
+      "word_id": "5407",
+      "chapter_id": "40",
+      "display_word": 130,
+      "word_text": "v+o+l+u+m+e=volume",
+      "emoji": "🔊"
+    },
+    {
+      "word_id": "5408",
+      "chapter_id": "40",
+      "display_word": 131,
+      "word_text": "d+o+w+n=down",
+      "emoji": "⬇️"
+    },
+    {
+      "word_id": "5409",
+      "chapter_id": "40",
+      "display_word": 132,
+      "word_text": "u+p=up",
+      "emoji": "⬆️"
+    },
+    {
+      "word_id": "5410",
+      "chapter_id": "40",
+      "display_word": 133,
+      "word_text": "c+a+n+t=cant",
+      "emoji": "🚫"
+    },
+    {
+      "word_id": "5411",
+      "chapter_id": "40",
+      "display_word": 134,
+      "word_text": "r+e+c+o+g+n+i+z+e=recognize",
+      "emoji": "👀"
+    },
+    {
+      "word_id": "5412",
+      "chapter_id": "40",
+      "display_word": 135,
+      "word_text": "i+l+l=ill",
+      "emoji": "⏭️"
+    },
+    {
+      "word_id": "5413",
+      "chapter_id": "40",
+      "display_word": 136,
+      "word_text": "i+f=if",
+      "emoji": "❓"
+    },
+    {
+      "word_id": "5414",
+      "chapter_id": "40",
+      "display_word": 137,
+      "word_text": "s+e+e=see",
+      "emoji": "👀"
+    },
+    {
+      "word_id": "5415",
+      "chapter_id": "40",
+      "display_word": 138,
+      "word_text": "l+o+o+k=look",
+      "emoji": "👀"
+    },
+    {
+      "word_id": "5416",
+      "chapter_id": "40",
+      "display_word": 139,
+      "word_text": "h+a+n+d+s=hands",
+      "emoji": "🤲"
+    },
+    {
+      "word_id": "5417",
+      "chapter_id": "40",
+      "display_word": 140,
+      "word_text": "l+e+g+s=legs",
+      "emoji": "🦶"
+    },
+    {
+      "word_id": "5418",
+      "chapter_id": "40",
+      "display_word": 141,
+      "word_text": "m+u+s+t=must",
+      "emoji": "💯"
+    },
+    {
+      "word_id": "5419",
+      "chapter_id": "40",
+      "display_word": 142,
+      "word_text": "t+o+d+a+y=today",
+      "emoji": "📅"
+    },
+    {
+      "word_id": "5420",
+      "chapter_id": "40",
+      "display_word": 143,
+      "word_text": "w+a+s=was",
+      "emoji": "🕰️"
+    },
+    {
+      "word_id": "5421",
+      "chapter_id": "40",
+      "display_word": 144,
+      "word_text": "y+e+a+r+s=years",
+      "emoji": "📅"
+    },
+    {
+      "word_id": "5422",
+      "chapter_id": "40",
+      "display_word": 145,
+      "word_text": "a+g+o=ago",
+      "emoji": "⏮️"
+    },
+    {
+      "word_id": "5423",
+      "chapter_id": "40",
+      "display_word": 146,
+      "word_text": "l+u+n+c+h=lunch",
+      "emoji": "🍽️"
+    },
+    {
+      "word_id": "5424",
+      "chapter_id": "40",
+      "display_word": 147,
+      "word_text": "h+o+u+r=hour",
+      "emoji": "⏰"
+    },
+    {
+      "word_id": "5425",
+      "chapter_id": "40",
+      "display_word": 148,
+      "word_text": "o+f=of",
+      "emoji": "🔗"
+    },
+    {
+      "word_id": "5426",
+      "chapter_id": "40",
+      "display_word": 149,
+      "word_text": "h+e+r=her",
+      "emoji": "👩"
+    },
+    {
+      "word_id": "5427",
+      "chapter_id": "40",
+      "display_word": 150,
+      "word_text": "h+a+v+e+n+t=havent",
+      "emoji": "🚫"
+    },
+    {
+      "word_id": "5428",
+      "chapter_id": "40",
+      "display_word": 151,
+      "word_text": "f+o+r+g+o+t+t+e+n=forgotten",
+      "emoji": "🧠"
+    },
+    {
+      "word_id": "5429",
+      "chapter_id": "40",
+      "display_word": 152,
+      "word_text": "a+n+y+t+h+i+n+g=anything",
+      "emoji": "📦"
+    },
+    {
+      "word_id": "5430",
+      "chapter_id": "40",
+      "display_word": 153,
+      "word_text": "n+o=no",
+      "emoji": "🚫"
+    },
+    {
+      "word_id": "5431",
+      "chapter_id": "40",
+      "display_word": 154,
+      "word_text": "t+o+l+d=told",
+      "emoji": "🗣️"
+    },
+    {
+      "word_id": "5432",
+      "chapter_id": "40",
+      "display_word": 155,
+      "word_text": "n+o+t+h+i+n+g=nothing",
+      "emoji": "🚫"
+    }
+  ]
+}
