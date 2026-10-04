@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-10-04",
+  "chapters": [
+    {
+      "id": "data_01",
+      "title": "Data 01",
+      "fileName": "Data_01.json",
+      "url": "https://raw.githubusercontent.com/mdkadirkhan0515/JSON-/main/Data_01.json"
+    },
+    {
+      "id": "data_02",
+      "title": "Data 02",
+      "fileName": "Data_02.json",
+      "url": "https://raw.githubusercontent.com/mdkadirkhan0515/JSON-/main/Data_02.json"
+    },
+    {
+      "id": "data_03",
+      "title": "Data 03",
+      "fileName": "Data_03.json",
+      "url": "https://raw.githubusercontent.com/mdkadirkhan0515/JSON-/main/Data_03.json"
+    }
+  ]
+}
